@@ -1,3 +1,0 @@
-Hello World1.Read all lines from the file.
- 2.Remove the lines you don’t want
- 3.Write the remaining lines back to the file.
